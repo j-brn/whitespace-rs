@@ -3,7 +3,7 @@ name = "whitespace"
 description = "Encode arbitrary data into tabs and whitespaces and vice versa."
 license = "MIT"
 license-file = "./LICENSE"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Jonas <me@jbrn.eu>"]
 edition = "2018"
 
