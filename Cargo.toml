@@ -8,3 +8,4 @@ authors = ["Jonas <me@jbrn.eu>"]
 edition = "2018"
 
 [dependencies]
+thiserror = "1.0"
