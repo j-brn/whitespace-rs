@@ -1,9 +1,9 @@
 [package]
 name = "whitespace"
 license = "MIT"
-description = "Encode arbitrary data into tabs and whitespaces and vice versa."
+description = "Encode arbitrary data whitespaces and vice versa."
 repository = "https://github.com/j-brn/whitespace-rs"
-version = "1.0.0"
+version = "2.0.0"
 authors = ["Jonas <me@jbrn.eu>"]
 edition = "2018"
 
